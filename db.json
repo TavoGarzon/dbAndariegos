@@ -14,6 +14,11 @@
     "descripcion" : "Es un embalse natural que se encuentra en el departamento de Risaralda",
     "puntuacion": "Puntuación: 8.4/10",
     "urlfoto": "https://i.pinimg.com/564x/7c/1b/9d/7c1b9d0e8791f1fb6962baa7e97fed7b.jpg"
+  },
+  {
+    "nombre": "Valle del Cocora",
+    "descripcion": "En la reserva natural Valle del Cocora se encuentra el hogar del árbol nacional de Colombia, la Palma de Cera del Quindío.",
+    "urlfoto": "https://i.pinimg.com/564x/4d/2b/05/4d2b0500ea7b5e6937b7ca6dd69f2ba4.jpg"
   }
 ]
 ,
