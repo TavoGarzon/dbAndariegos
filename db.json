@@ -1,13 +1,12 @@
 "sitios":[
   {
     "nombre": "Paramo de Santurbán",
-    "descripcion": "Se ubica en los departamentos de Santander y Norte de Santander en una altura desde los 2.800 hasta los 4.290 metros sobre el nivel del mar.",
-    "puntuacion": "Puntuación: 8.7/10",
+    "descripcion": "Se ubica en los departamentos de Santander
     "urlfoto": "https://i.pinimg.com/564x/65/ac/6a/65ac6a4b4c7621df9bc6614ff9b74972.jpg"
   },
   {
     "nombre" : "Laguna del Otún",
-    "descripcion" : "Es un embalse natural que se encuentra en el departamento de Risaralda, en el área perteneciente al Parque Nacional Natural Los Nevados.",
+    "descripcion" : "Es un embalse natural que se encuentra en el departamento de Risaralda",
     "puntuacion": "Puntuación: 8.4/10",
     "urlfoto": "https://i.pinimg.com/564x/7c/1b/9d/7c1b9d0e8791f1fb6962baa7e97fed7b.jpg"
   }
